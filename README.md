@@ -1,2 +1,1 @@
-# anomaly-detection-frontend
-Anomaly detection frontend 
+## anomaly-detection-frontend
